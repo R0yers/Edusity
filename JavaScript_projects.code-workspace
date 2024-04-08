@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../javascript_lessons/JavaScript_projects"
+		},
+		{
+			"path": "../javascript_lessons/notes"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript_projects"
+	}
+}
